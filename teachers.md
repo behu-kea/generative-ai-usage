@@ -68,6 +68,18 @@
 
 
 
+### Exercise generator - Basic software development
+
+**Problem:** Creating exercises for software development can take a long time and be quite cumbersome 
+
+
+
+**Løsning:** This prompts generates
+
+- Link til prompt: [exercise-generator.txt](prompts/exercise-generator.txt)
+
+
+
 ### Quiz generator
 
 **Problem:** I min klasse laver jeg små quizzer til at teste om de studerende har forstået forberedelsen til timen. De quizzer tager en del tid at lave. 
