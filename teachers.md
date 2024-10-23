@@ -55,7 +55,7 @@
 
 
 
-**Løsning:** Få genereret læringsmateriale og opgaver baseret på nogle læringsmål. Materialet bliver skrevet i Markdown og laver man prompten i ChatGPT, gemmer den endda markdown filen direkte
+**Løsning:** Få genereret læringsmateriale og opgaver baseret på nogle læringsmål. Materialet bliver skrevet i Markdown og laver man prompten i ChatGPT, gemmer den endda markdown filen direkte. Man skal specificere programmingssprog, længde af klasse, emnerne og læringsforudsætningerne
 
 - Link til Prompt: [lesson-plan-generator.txt](prompts/lesson-plan-generator.txt)
 
@@ -68,15 +68,43 @@
 
 
 
-### Peer instruction quizzer
+### Quiz generator
 
-**Problem:** 
+**Problem:** I min klasse laver jeg små quizzer til at teste om de studerende har forstået forberedelsen til timen. De quizzer tager en del tid at lave. 
 
 
 
-- Peer instruction quizzer: https://chatgpt.com/g/g-eixxhYrsp-software-developments-quiz-generator
-- Learning accellerator (fungerer bedst med `op1-preview`): https://chatgpt.com/g/g-VKLlaWNHb-software-development-learning-accellerator
-  - Den her kan kobles med Materiale produktion. Så man tager rapporten og laver materiale udfra det.
+**Løsning:** Generer en quiz indenfor et specifikt emne. Man skal specificere emner, programmeringssprog, sværhedsgrad og antal spørgsmål man vil have genereret
+
+- Link til GPT: [https://chatgpt.com/g/g-eixxhYrsp-software-developments-quiz-generator](https://chatgpt.com/g/g-eixxhYrsp-software-developments-quiz-generator)
+
+- Link til prompt: [quiz-generator.txt](prompts/quiz-generator.txt)
+
+
+
+### Learning accellerator
+
+**Problem:** Som underviser indenfor softwareudvikling skal man altid lære nye emner/teknologier. Det kan tage tid at finde ud af hvor man er god eller ikke så god
+
+
+
+**Løsning:** Løsningen er en prompt der først spørger hvad du gerne vil lære og hvilke læringsforudsætniner du har. Derefter stiller den dig nogle spørgsmål for at finde ud af dit niveau indenfor emnet. Når du har svaret på spørgsmålene får du en rapport der highlighter hvor du er stærk og hvor du kunne forbedre dig. Til sidst laver den en læringsplan for dig ift at lære det den vurderer du ikke har så godt styr på. Virker bedst med OP1.
+
+- Link til GPT: [https://chatgpt.com/g/g-VKLlaWNHb-software-development-learning-accellerator](https://chatgpt.com/g/g-VKLlaWNHb-software-development-learning-accellerator)
+- Link til prompt:  [learning-accellerator.txt](prompts/learning-accellerator.txt) 
+
+GPT'en kan kobles med Materiale produktion. Så man tager rapporten og laver materiale udfra det.
+
+
+
+**Forbedringer**
+
+- Måske skal det bare være en prompt til at finde læringshuller og få lavet læringsmål til en selv. Selve læringsplanen kunne man så få fra en anden
+
+
+
+
+
 - Generer ikon til en GPT: https://chatgpt.com/g/g-8Y3peNSgU-image-for-gpt-creator/
 - Diskutere læringsudfordringer med ChatGPT, eksempel: https://chatgpt.com/c/66e44c51-5d8c-8008-8446-a4cb8e2fc5ed
 - Finde fokus som vidensmedarbejder: https://chatgpt.com/c/67179bca-5830-8008-b603-dfbe4e2ee9d9
