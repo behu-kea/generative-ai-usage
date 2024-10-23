@@ -103,11 +103,33 @@ GPT'en kan kobles med Materiale produktion. Så man tager rapporten og laver mat
 
 
 
+### Create icon for a GPT
+
+**Problem:** De ikoner GPT'erne selv laver er super grimme. 
 
 
-- Generer ikon til en GPT: https://chatgpt.com/g/g-8Y3peNSgU-image-for-gpt-creator/
+
+**Løsning:** En GPT man kan give enten en beskrivelse af sin GPT eller prompten til ens GPT. Nu brainstormer den først, vælger en ide og genererer et ikon til GPT'en
+
+- Link til GPT: [https://chatgpt.com/g/g-8Y3peNSgU-image-for-gpt-creator/](https://chatgpt.com/g/g-8Y3peNSgU-image-for-gpt-creator/)
+
+
+
+### Discussing learning difficulties
+
 - Diskutere læringsudfordringer med ChatGPT, eksempel: https://chatgpt.com/c/66e44c51-5d8c-8008-8446-a4cb8e2fc5ed
-- Finde fokus som vidensmedarbejder: https://chatgpt.com/c/67179bca-5830-8008-b603-dfbe4e2ee9d9
-  - Hvad vil jeg med mit arbejde
-  - Hvilke projekter skal jeg sige ja til
-  - Hvor skal mit fokus ligge? 
+
+
+
+### Find focus as a knowledge worker
+
+Finde fokus som vidensmedarbejder: https://chatgpt.com/c/67179bca-5830-8008-b603-dfbe4e2ee9d9
+
+- Hvad vil jeg med mit arbejde
+- Hvilke projekter skal jeg sige ja til
+- Hvor skal mit fokus ligge? 
+
+
+
+
+
