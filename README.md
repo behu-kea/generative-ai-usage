@@ -12,8 +12,8 @@ I try and automate the parts of my job that makes sense to automate. The smaller
 
 This repository contains two files:
 
-1. One is for prompts i use to plan, develop and teach: [teachers.md](teachers.md)
-2. The other is prompts i give to the students: [students.md](students.md)
+1. One is for prompts i use to plan, develop and teach: [Teacher prompts](teachers.md)
+2. The other is prompts i give to the students: [Student prompts](students.md)
 
 
 
