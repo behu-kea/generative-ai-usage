@@ -2,11 +2,12 @@
 
 
 
-### What do i do as a teacher that can be automated
+<!--
+
+### Hvilke opgaver har jeg som underviser?
 
 - Skriver lektoranmodning
 - Kan jeg bruge det at jeg kan simulere studerende? Eller undervisere? 
-- Lave opgaver
 
 
 
@@ -15,6 +16,8 @@
 	- Hmm men mon ikke jeg skal være inde over her? Der er jo her blandt andet at jeg løbende evaluerer dem
 - Laver læringsplaner
   - Det er ret personligt
+
+-->
 
 
 
@@ -125,19 +128,7 @@ GPT'en kan kobles med Materiale produktion. Så man tager rapporten og laver mat
 
 
 
-### Create icon for a GPT
-
-**Problem:** De ikoner GPT'erne selv laver er super grimme. 
-
-
-
-**Løsning:** En GPT man kan give enten en beskrivelse af sin GPT eller prompten til ens GPT. Nu brainstormer den først, vælger en ide og genererer et ikon til GPT'en
-
-- Link til GPT: [https://chatgpt.com/g/g-8Y3peNSgU-image-for-gpt-creator/](https://chatgpt.com/g/g-8Y3peNSgU-image-for-gpt-creator/)
-
-
-
-### Discussing learning difficulties
+### Discussing learning challenges
 
 **Problem:** At finde på løsninger til en problemstilling i klassen kan være svært. 
 
@@ -158,4 +149,14 @@ GPT'en kan kobles med Materiale produktion. Så man tager rapporten og laver mat
 - Link til prompt: [focus-as-knowledge-worker.txt](prompts/focus-as-knowledge-worker.txt)
 
 
+
+### Create icon for a GPT
+
+**Problem:** Det er lidt niche det her, men de ikoner GPT'erne selv laver er super grimme. 
+
+
+
+**Løsning:** En GPT man kan give enten en beskrivelse af sin GPT eller prompten til ens GPT. Nu brainstormer den først, vælger en ide og genererer et ikon til GPT'en
+
+- Link til GPT: [https://chatgpt.com/g/g-8Y3peNSgU-image-for-gpt-creator/](https://chatgpt.com/g/g-8Y3peNSgU-image-for-gpt-creator/)
 
