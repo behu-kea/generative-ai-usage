@@ -21,6 +21,6 @@ This repository contains two files:
 
 I teach software development at [KEA](https://kea.dk) and am super interested in Generative AI
 
-If you have feedback for prompts/GPT's please write me at [behu@kea.dk](behu@kea.dk)
+If you have feedback for prompts/GPT's please write me at [behu@kea.dk](mailto:behu@kea.dk)
 
 Check my portfolio out here: [https://benna100.github.io/portfolio/](https://benna100.github.io/portfolio/)
