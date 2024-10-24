@@ -74,9 +74,19 @@
 
 
 
-**Løsning:** This prompts generates
+**Løsning:** This prompts generates exercises for software developement basics. That means it works best with exercises about variables, for loops, if sentences, arrays, objects, classes, lists, inheritance, etc. It does not do great when the software is used to build frameworks like fx react, DOM, app development, backend, server and api. 
 
 - Link til prompt: [exercise-generator.txt](prompts/exercise-generator.txt)
+
+
+
+### Exercise generator - Fun exercises
+
+**Løsning:** Den her GPT har mere fokus på lidt mere spændende opgaver der er mere kreative og måske også lidt skøre:
+
+- Link til GPT: [https://chatgpt.com/g/g-SXk9BLMbf-fun-exercise-creator](https://chatgpt.com/g/g-SXk9BLMbf-fun-exercise-creator)
+
+- Link til Prompt: [fun-exercise-generator.txt](prompts/fun-exercise-generator.txt)
 
 
 
@@ -129,19 +139,23 @@ GPT'en kan kobles med Materiale produktion. Så man tager rapporten og laver mat
 
 ### Discussing learning difficulties
 
-- Diskutere læringsudfordringer med ChatGPT, eksempel: https://chatgpt.com/c/66e44c51-5d8c-8008-8446-a4cb8e2fc5ed
+**Problem:** At finde på løsninger til en problemstilling i klassen kan være svært. 
+
+
+
+**Løsning:** Jeg har linket til hvordan jeg har brugt ChatGPT til at løse et konkret problem i min klasse: https://chatgpt.com/c/66e44c51-5d8c-8008-8446-a4cb8e2fc5ed
 
 
 
 ### Find focus as a knowledge worker
 
-Finde fokus som vidensmedarbejder: https://chatgpt.com/c/67179bca-5830-8008-b603-dfbe4e2ee9d9
-
-- Hvad vil jeg med mit arbejde
-- Hvilke projekter skal jeg sige ja til
-- Hvor skal mit fokus ligge? 
+**Problem:** At finde et fokus som vidensmedarbejder efter lektoranmodning kan være lidt svært.
 
 
+
+**Løsning:** Jeg har linket til en prompt jeg har brugt til at indgå i en samtale med ChatGPT omkring fokus. 
+
+- Link til prompt: [focus-as-knowledge-worker.txt](prompts/focus-as-knowledge-worker.txt)
 
 
 
