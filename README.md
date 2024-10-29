@@ -1,4 +1,4 @@
-# Generative AI Usage as a Teacher
+# Generative AI Usage
 
 
 

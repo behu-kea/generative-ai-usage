@@ -134,7 +134,7 @@ GPT'en kan kobles med Materiale produktion. Så man tager rapporten og laver mat
 
 
 
-**Løsning:** Jeg har linket til hvordan jeg har brugt ChatGPT til at løse et konkret problem i min klasse: https://chatgpt.com/c/66e44c51-5d8c-8008-8446-a4cb8e2fc5ed
+**Løsning:** Jeg har linket til hvordan jeg har brugt ChatGPT til at løse et konkret problem i min klasse: [https://chatgpt.com/c/66e44c51-5d8c-8008-8446-a4cb8e2fc5ed](https://chatgpt.com/c/66e44c51-5d8c-8008-8446-a4cb8e2fc5ed)
 
 
 
