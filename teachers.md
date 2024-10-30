@@ -115,7 +115,7 @@
 
 **Løsning:** Løsningen er en prompt der først spørger hvad du gerne vil lære og hvilke læringsforudsætniner du har. Derefter stiller den dig nogle spørgsmål for at finde ud af dit niveau indenfor emnet. Når du har svaret på spørgsmålene får du en rapport der highlighter hvor du er stærk og hvor du kunne forbedre dig. Til sidst laver den en læringsplan for dig ift at lære det den vurderer du ikke har så godt styr på. Virker bedst med OP1.
 
-- Link til GPT: [https://chatgpt.com/g/g-VKLlaWNHb-software-development-learning-accellerator](https://chatgpt.com/g/g-VKLlaWNHb-software-development-learning-accellerator)
+- Link til GPT: [https://chatgpt.com/g/g-VKLlaWNHb-learning-accellerator](https://chatgpt.com/g/g-VKLlaWNHb-learning-accellerator)
 - Link til prompt:  [learning-accellerator.txt](prompts/learning-accellerator.txt) 
 
 GPT'en kan kobles med Materiale produktion. Så man tager rapporten og laver materiale udfra det.
