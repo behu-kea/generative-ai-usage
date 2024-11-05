@@ -7,7 +7,17 @@
 ### Hvilke opgaver har jeg som underviser?
 
 - Skriver lektoranmodning
-- Kan jeg bruge det at jeg kan simulere studerende? Eller undervisere? 
+  - 
+
+- Kan jeg bruge det at jeg kan simulere studerende? Eller undervisere?
+- Vejlede praktikant
+  - Give feedback til cv
+  - Koordinere møder
+
+- Vejlede hovedopgave
+  - Svare på spørgsmål
+  - 
+
 
 
 
