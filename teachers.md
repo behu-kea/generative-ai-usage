@@ -11,11 +11,19 @@
 
 - Kan jeg bruge det at jeg kan simulere studerende? Eller undervisere?
 - Vejlede praktikant
-  - Give feedback til cv
-  - Koordinere møder
+  - 
+  - 
 
 - Vejlede hovedopgave
   - Svare på spørgsmål
+
+- Praktik
+  - Give feedback til cv
+  - Koordinere møder
+    - 3 Praktiksøgningsopfølgning møder
+    - Praktikbesøg
+
+  - Give karakter til praktikrapport
   - 
 
 
